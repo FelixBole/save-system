@@ -1,6 +1,6 @@
 {
   "name": "com.slax.savesystem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Save System",
   "description": "A generic highly customizable save system that lays only the foundations.",
   "unity": "2019.1",
